@@ -1,0 +1,65 @@
+body
+{
+    background-image:url("");
+    font-family: 'verdana';
+    color:#000000;
+    background-size: cover;
+    ;
+}
+
+#formulario{
+    margin-top: 3px;
+    width: 80%;
+    background-color: rgba(221, 221, 221, 0.6);
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 4%;
+    box-shadow: 30px 30px 30px rgba(0,0,0,0.65);
+    
+}
+#formulario3{
+    margin-top: 3px;
+    width: 97%;
+    background-color: rgba(221, 221, 221, 0.6);
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 4%;
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.65);
+    
+}
+#formulario2{
+    margin-top: 3px;
+    width: 97%;
+    height: 100%;
+    background-color: rgba(239, 239, 239, 0.6);
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 4%;
+    box-shadow: 40px 40px 40px rgba(0,0,0,0.65);
+    
+}
+#formulario4{
+    margin-top: 3px;
+    width: 79%;
+    background-color: rgba(221, 221, 221, 0.6);
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 4%;
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.65);
+}
+p{
+ width: 90%; 
+    
+}
+#fieldset .informacionAlumno{
+  float: left;
+  width: 48%;
+}
+.informacionApoderado{
+    float: right;
+ width: 48%;
+}
